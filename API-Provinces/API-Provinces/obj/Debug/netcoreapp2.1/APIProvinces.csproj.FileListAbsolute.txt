@@ -1,0 +1,13 @@
+C:\Projects\API-Provinces\API-Provinces\API-Provinces\obj\Debug\netcoreapp2.1\APIProvinces.csproj.CoreCompileInputs.cache
+C:\Projects\API-Provinces\API-Provinces\API-Provinces\obj\Debug\netcoreapp2.1\APIProvinces.RazorAssemblyInfo.cache
+C:\Projects\API-Provinces\API-Provinces\API-Provinces\obj\Debug\netcoreapp2.1\APIProvinces.RazorAssemblyInfo.cs
+C:\Projects\API-Provinces\API-Provinces\API-Provinces\obj\Debug\netcoreapp2.1\APIProvinces.AssemblyInfoInputs.cache
+C:\Projects\API-Provinces\API-Provinces\API-Provinces\obj\Debug\netcoreapp2.1\APIProvinces.AssemblyInfo.cs
+C:\Projects\API-Provinces\API-Provinces\API-Provinces\bin\Debug\netcoreapp2.1\APIProvinces.deps.json
+C:\Projects\API-Provinces\API-Provinces\API-Provinces\bin\Debug\netcoreapp2.1\APIProvinces.runtimeconfig.json
+C:\Projects\API-Provinces\API-Provinces\API-Provinces\bin\Debug\netcoreapp2.1\APIProvinces.runtimeconfig.dev.json
+C:\Projects\API-Provinces\API-Provinces\API-Provinces\bin\Debug\netcoreapp2.1\APIProvinces.dll
+C:\Projects\API-Provinces\API-Provinces\API-Provinces\bin\Debug\netcoreapp2.1\APIProvinces.pdb
+C:\Projects\API-Provinces\API-Provinces\API-Provinces\obj\Debug\netcoreapp2.1\APIProvinces.RazorTargetAssemblyInfo.cache
+C:\Projects\API-Provinces\API-Provinces\API-Provinces\obj\Debug\netcoreapp2.1\APIProvinces.dll
+C:\Projects\API-Provinces\API-Provinces\API-Provinces\obj\Debug\netcoreapp2.1\APIProvinces.pdb
