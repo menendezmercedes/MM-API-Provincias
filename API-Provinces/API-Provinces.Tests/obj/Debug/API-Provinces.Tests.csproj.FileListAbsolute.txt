@@ -11,3 +11,4 @@ C:\Projects\API-Provinces\API-Provinces\API-Provinces.Tests\obj\Debug\API-Provin
 C:\Projects\API-Provinces\API-Provinces\API-Provinces.Tests\obj\Debug\API-Provinces.Tests.csproj.CopyComplete
 C:\Projects\API-Provinces\API-Provinces\API-Provinces.Tests\obj\Debug\API-Provinces.Tests.dll
 C:\Projects\API-Provinces\API-Provinces\API-Provinces.Tests\obj\Debug\API-Provinces.Tests.pdb
+C:\Projects\API-Provinces\API-Provinces\API-Provinces.Tests\obj\Debug\API-Provinces.Tests.csprojAssemblyReference.cache
