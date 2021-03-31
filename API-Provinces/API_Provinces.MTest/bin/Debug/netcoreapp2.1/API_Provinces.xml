@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>API_Provinces</name>
+    </assembly>
+    <members>
+        <member name="M:API_Provinces.Controllers.LoginController.Post(API_Provinces.Models.LoginModel)">
+            <summary>
+             This method generate a jwt to authenticate the user
+            </summary>
+            <param name="login"></param>
+            <returns>Return a JWT and 200 code on success and 400 for invalid credentials</returns>
+        </member>
+        <member name="M:API_Provinces.Controllers.ProvincesController.GetProvince(System.String)">
+            <summary>
+                Method that returns the longitud and laltitude of a province
+            </summary>
+            <param name="ProvinceName" in="path" required="true" type="string"> The province name </param>
+            <param name="Authorization" in="header" required="true" type="string"> The JWT token. Must be prefixed by "Bearer ".</param>
+        </member>
+    </members>
+</doc>

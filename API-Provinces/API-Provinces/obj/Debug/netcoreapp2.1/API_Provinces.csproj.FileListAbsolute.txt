@@ -9,6 +9,7 @@ C:\Projects\API-Provinces\API-Provinces\API-Provinces\bin\netcoreapp2.1\API_Prov
 C:\Projects\API-Provinces\API-Provinces\API-Provinces\bin\netcoreapp2.1\API_Provinces.dll
 C:\Projects\API-Provinces\API-Provinces\API-Provinces\bin\netcoreapp2.1\API_Provinces.pdb
 C:\Projects\API-Provinces\API-Provinces\API-Provinces\bin\netcoreapp2.1\API_Provinces.xml
+C:\Projects\API-Provinces\API-Provinces\API-Provinces\obj\Debug\netcoreapp2.1\API_Provinces.csprojAssemblyReference.cache
 C:\Projects\API-Provinces\API-Provinces\API-Provinces\obj\Debug\netcoreapp2.1\API_Provinces.csproj.CoreCompileInputs.cache
 C:\Projects\API-Provinces\API-Provinces\API-Provinces\obj\Debug\netcoreapp2.1\API_Provinces.RazorAssemblyInfo.cache
 C:\Projects\API-Provinces\API-Provinces\API-Provinces\obj\Debug\netcoreapp2.1\API_Provinces.RazorAssemblyInfo.cs
@@ -17,4 +18,3 @@ C:\Projects\API-Provinces\API-Provinces\API-Provinces\obj\Debug\netcoreapp2.1\AP
 C:\Projects\API-Provinces\API-Provinces\API-Provinces\obj\Debug\netcoreapp2.1\API_Provinces.RazorTargetAssemblyInfo.cache
 C:\Projects\API-Provinces\API-Provinces\API-Provinces\obj\Debug\netcoreapp2.1\API_Provinces.dll
 C:\Projects\API-Provinces\API-Provinces\API-Provinces\obj\Debug\netcoreapp2.1\API_Provinces.pdb
-C:\Projects\API-Provinces\API-Provinces\API-Provinces\obj\Debug\netcoreapp2.1\API_Provinces.csprojAssemblyReference.cache

@@ -42,7 +42,7 @@ namespace API_Provinces.Controllers
                     {
                         LogHelper.WriteFileLog("Method: Login. User logged " + login.UserName);
                         LogHelper.WriteDBLog("Method: Login. User logged  " + login.UserName);
-                        return Ok(token);
+                        return new OkObjectResult(token);
                     }
                     else
                     {
