@@ -116,3 +116,23 @@ Log Entry 22:10:36
 Calling post method to login 
 Log Entry 22:10:36
 Method: Login. User logged devUser
+Log Entry 22:20:33
+Calling post method to login 
+Log Entry 22:20:33
+Method: Login. Invalid Credential User- notValid
+Log Entry 22:20:33
+Calling post method to login 
+Log Entry 22:20:34
+Method: Login. User logged devUser
+Log Entry 22:21:43
+Calling post method to login 
+Log Entry 22:21:43
+Method: Login. Invalid Credential User- notValid
+Log Entry 22:21:43
+Calling post method to login 
+Log Entry 22:21:43
+Method: Login. User logged devUser
+Log Entry 22:21:44
+Method: GetProvince. No se encontró ninguna provincia llamada: BadProvinceName
+Log Entry 22:21:45
+Method: GetProvince. Successfull call to API
