@@ -23,9 +23,7 @@ namespace API_Provinces.Controllers
         ///     Method that returns the longitud and laltitude of a province
         /// </summary>
         /// <param name="ProvinceName" in="path" required="true" type="string"> The province name </param>
-        /// <param name="Authorization" in="header" required="true" type="string"> The JWT token. Must be prefixed by "Bearer ".</param>
         [HttpGet]
-        [Authorize]
         public IActionResult GetProvince(string ProvinceName)
         {
             var configuration = new ConfigurationBuilder().AddJsonFile("appsettings.json").Build();

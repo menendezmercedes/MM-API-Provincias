@@ -40,3 +40,9 @@ Log Entry 23:32:23
 Method: GetProvince. ErrorMessage: The remote server returned an error: (400) BAD REQUEST.
 Log Entry 23:32:32
 Method: GetProvince. ErrorMessage: The remote server returned an error: (400) BAD REQUEST.
+Log Entry 20:09:25
+Starting API
+Log Entry 20:10:23
+Starting API
+Log Entry 20:10:38
+Method: GetProvince. Successfull call to API
