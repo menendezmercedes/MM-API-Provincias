@@ -1,5 +1,4 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using API_Provinces;
 using API_Provinces.Models;
 using API_Provinces.Controllers;
 using Microsoft.AspNetCore.Mvc;
