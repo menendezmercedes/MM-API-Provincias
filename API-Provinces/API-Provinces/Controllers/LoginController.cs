@@ -29,8 +29,7 @@ namespace API_Provinces.Controllers
 
         public IActionResult Post([FromBody] LoginModel login)
         {
-            LogHelper.WriteFileLog("Calling post method to login ");
-            LogHelper.WriteDBLog("Calling post method to login ");
+
             if (ModelState.IsValid)
             {
                 var _login = new LoginValidation();
