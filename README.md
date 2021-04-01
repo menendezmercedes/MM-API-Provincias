@@ -1,7 +1,11 @@
 # MM-API-Provincias
 This is an API to get the latitude and longitude of different Argentinian provinces.
 
-This app was developer in VisualStudio Community 2017.
+## Configurations
+ 1.Visual Studio 2017 community (minimun)
+ 2..net Core 2.1
+
+
 For change the default user, you must edit the appsetting.json that is in the folder bin-> netcoreapp2.1.
 The api generates the correct sql connection string using the information that is in the DataBase section of the appsetting.json.
 Take into account that the Catalog make references to the name of the DataBase.
