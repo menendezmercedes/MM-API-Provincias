@@ -2,7 +2,7 @@
 This is an API to get the latitude and longitude of different Argentinian provinces.
 
 ## Configurations
- 1.Visual Studio 2017 community (minimun)
+ 1.Visual Studio 2017 community (minimun)<br>
  2..net Core 2.1
 
 
