@@ -136,3 +136,11 @@ Log Entry 22:21:44
 Method: GetProvince. No se encontró ninguna provincia llamada: BadProvinceName
 Log Entry 22:21:45
 Method: GetProvince. Successfull call to API
+Log Entry 23:31:21
+Method: Login. Invalid Credential User- notValid
+Log Entry 23:31:22
+Method: Login. User logged devUser
+Log Entry 23:31:22
+Method: GetProvince. No se encontró ninguna provincia llamada: BadProvinceName
+Log Entry 23:31:22
+Method: GetProvince. Successfull call to API

@@ -26,3 +26,17 @@ Log Entry 31/3/2021 21:06:49
 Starting API 
 Log Entry 31/3/2021 21:07:07
 Starting API 
+Log Entry 23:30:06
+Starting API
+Log Entry 23:30:34
+Method: Login. Invalid Credential User- string
+Log Entry 23:31:56
+Starting API
+Log Entry 23:32:10
+Method: GetProvince. No se encontró ninguna provincia llamada: Mercedes
+Log Entry 23:32:16
+Method: GetProvince. Successfull call to API
+Log Entry 23:32:23
+Method: GetProvince. ErrorMessage: The remote server returned an error: (400) BAD REQUEST.
+Log Entry 23:32:32
+Method: GetProvince. ErrorMessage: The remote server returned an error: (400) BAD REQUEST.
