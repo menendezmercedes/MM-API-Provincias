@@ -2,6 +2,7 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 using API_Provinces;
 using API_Provinces.Models;
 using API_Provinces.Controllers;
+using Microsoft.AspNetCore.Mvc;
 
 namespace API_Provinces.MTest
 {
@@ -18,12 +19,14 @@ namespace API_Provinces.MTest
                 Password = "notValid"
             };
 
-            var unexpectedResponse = "200";
             LoginController _login = new LoginController();
 
-            _login.Post(user);
-            var test = _login.Response;
-            Assert.AreNotEqual(unexpectedResponse, test);
+            var response = _login.Post(user);
+            var okResponse = response as BadRequestObjectResult;
+          
+            // assert
+            Assert.IsNotNull(okResponse);
+            Assert.AreEqual(400, okResponse.StatusCode);
         }
         [TestMethod]
         public void Post_ValidCredential()
@@ -33,12 +36,13 @@ namespace API_Provinces.MTest
                 UserName = "devUser",
                 Password = "ThisIsThePassword"
             };
-            var expectedResponse = "200";
             LoginController _login = new LoginController();
 
-            _login.Post(user);
-            //var test = _login.
-            //Assert.AreEqual(expectedResponse, test);
+            var response = _login.Post(user);
+            var okResponse = response as OkObjectResult;
+
+            Assert.IsNotNull(okResponse);
+            Assert.AreEqual(200, okResponse.StatusCode);
         }
     }
 }

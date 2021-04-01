@@ -1,7 +1,3 @@
-C:\Projects\API-Provinces\API-Provinces\API_Provinces.MTest\obj\Debug\netcoreapp2.1\API_Provinces.MTest.csprojAssemblyReference.cache
-C:\Projects\API-Provinces\API-Provinces\API_Provinces.MTest\obj\Debug\netcoreapp2.1\API_Provinces.MTest.csproj.CoreCompileInputs.cache
-C:\Projects\API-Provinces\API-Provinces\API_Provinces.MTest\obj\Debug\netcoreapp2.1\API_Provinces.MTest.AssemblyInfoInputs.cache
-C:\Projects\API-Provinces\API-Provinces\API_Provinces.MTest\obj\Debug\netcoreapp2.1\API_Provinces.MTest.AssemblyInfo.cs
 C:\Projects\API-Provinces\API-Provinces\API_Provinces.MTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
 C:\Projects\API-Provinces\API-Provinces\API_Provinces.MTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
 C:\Projects\API-Provinces\API-Provinces\API_Provinces.MTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
@@ -13,6 +9,10 @@ C:\Projects\API-Provinces\API-Provinces\API_Provinces.MTest\bin\Debug\netcoreapp
 C:\Projects\API-Provinces\API-Provinces\API_Provinces.MTest\bin\Debug\netcoreapp2.1\API_Provinces.dll
 C:\Projects\API-Provinces\API-Provinces\API_Provinces.MTest\bin\Debug\netcoreapp2.1\API_Provinces.pdb
 C:\Projects\API-Provinces\API-Provinces\API_Provinces.MTest\bin\Debug\netcoreapp2.1\API_Provinces.xml
+C:\Projects\API-Provinces\API-Provinces\API_Provinces.MTest\obj\Debug\netcoreapp2.1\API_Provinces.MTest.csprojAssemblyReference.cache
+C:\Projects\API-Provinces\API-Provinces\API_Provinces.MTest\obj\Debug\netcoreapp2.1\API_Provinces.MTest.csproj.CoreCompileInputs.cache
+C:\Projects\API-Provinces\API-Provinces\API_Provinces.MTest\obj\Debug\netcoreapp2.1\API_Provinces.MTest.AssemblyInfoInputs.cache
+C:\Projects\API-Provinces\API-Provinces\API_Provinces.MTest\obj\Debug\netcoreapp2.1\API_Provinces.MTest.AssemblyInfo.cs
 C:\Projects\API-Provinces\API-Provinces\API_Provinces.MTest\obj\Debug\netcoreapp2.1\API_Provinces.MTest.csproj.CopyComplete
 C:\Projects\API-Provinces\API-Provinces\API_Provinces.MTest\obj\Debug\netcoreapp2.1\API_Provinces.MTest.dll
 C:\Projects\API-Provinces\API-Provinces\API_Provinces.MTest\obj\Debug\netcoreapp2.1\API_Provinces.MTest.pdb
