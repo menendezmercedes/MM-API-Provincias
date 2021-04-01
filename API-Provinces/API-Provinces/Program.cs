@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Threading.Tasks;
+using API_Provinces.Services;
 using Microsoft.AspNetCore;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
@@ -14,6 +15,8 @@ namespace API_Provinces
     {
         public static void Main(string[] args)
         {
+            LogHelper.WriteFileLog("Starting API" );
+            LogHelper.WriteDBLog("Starting API");
             CreateWebHostBuilder(args).Build().Run();
         }
 
