@@ -5,8 +5,8 @@ This is an API to get the latitude and longitude of different Argentinian provin
  1.Visual Studio 2017 community (minimun)<br>
  2..net Core 2.1
 
-
-For change the default user, you must edit the appsetting.json that is in the folder bin-> netcoreapp2.1.
+To RUN the application you only have to  press F5 or click on run.<br>
+For change the default user, you must edit the appsetting.json that is in the folder bin-> netcoreapp2.1.<br>
 The api generates the correct sql connection string using the information that is in the DataBase section of the appsetting.json.
 Take into account that the Catalog make references to the name of the DataBase.
 
